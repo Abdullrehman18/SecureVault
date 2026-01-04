@@ -61,9 +61,9 @@ If using Command Line:
 
 Bash
 
-``javac KeyGeneratorUtil.java
+javac KeyGeneratorUtil.java
 java KeyGeneratorUtil
-Output: "Key generated successfully."``
+Output: "Key generated successfully."
 
 ### How to Use
 1. Prepare Files
