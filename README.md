@@ -61,9 +61,9 @@ If using Command Line:
 
 Bash
 
-javac KeyGeneratorUtil.java
-java KeyGeneratorUtil
-Output: "Key generated successfully."
+* javac KeyGeneratorUtil.java
+* java KeyGeneratorUtil
+* Output: "Key generated successfully."
 
 ### How to Use
 1. Prepare Files
@@ -75,8 +75,8 @@ Run the main GUI file: CryptoGUI.java.
 If using Command Line:
 ``Bash``
 
-``javac CryptoGUI.java
-java CryptoGUI``
+* javac CryptoGUI.java
+* java CryptoGUI
 
 
 3. Encryption
