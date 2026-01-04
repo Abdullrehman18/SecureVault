@@ -2,7 +2,7 @@
 
 ###  Project Information
 **Developed by:**
-* **Student 1 Name:** Abdull Rehman
+* **Student 1 Name:** Abdul Rehman
 * **Student ID:** 25sp-029-cs
 * **Student 2 Name:** Abdullah
 * **Student ID:** 25sp-045-cs
